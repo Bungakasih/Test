@@ -1,0 +1,24 @@
+*,
+html{
+  margin:0;
+  padding: 0;
+}
+body {
+  background-image: url('lukex.jpg');
+  background-position: center;
+ 
+}
+
+.content {
+  background-color: transparent;
+}
+
+.ul {
+  background-color: blue;
+}
+.li {
+  border: 1px solid black;
+  font-size: 50px;
+  background-color: red;
+  list-style-type: none;
+}
